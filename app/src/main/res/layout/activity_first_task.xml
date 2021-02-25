@@ -7,21 +7,20 @@
     android:orientation="vertical"
     tools:context="MainActivity">
 
-    <Button
-        android:id="@+id/button_main_activity_send_message"
-        android:textColor="#FFFF"
-        android:text="@string/main_activity_send_message_btn"
-        android:layout_marginTop="300dp"
+    <EditText
+        android:id="@+id/textview_first_task_activity_message"
+        android:hint="@string/first_task_activity_message_hint"
+        android:layout_marginTop="250dp"
         android:layout_marginStart="16dp"
         android:layout_marginEnd="16dp"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content" />
 
     <Button
-        android:id="@+id/button_main_activity_sign_up"
+        android:id="@+id/button_first_task_activity_send"
         android:textColor="#FFFF"
-        android:text="@string/main_activity_sign_up_btn"
-        android:layout_marginTop="100dp"
+        android:text="@string/first_task_activity_send_btn"
+        android:layout_marginTop="300dp"
         android:layout_marginStart="16dp"
         android:layout_marginEnd="16dp"
         android:layout_width="match_parent"

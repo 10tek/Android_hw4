@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">hw4</string>
+    <string name="main_activity_send_message_btn">Send Message(WA)</string>
+    <string name="main_activity_sign_up_btn">Sign Up</string>
+    <string name="first_task_activity_message_hint">message...</string>
+    <string name="first_task_activity_send_btn">Send</string>
 </resources>
