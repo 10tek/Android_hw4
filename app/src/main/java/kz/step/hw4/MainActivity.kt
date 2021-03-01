@@ -29,6 +29,8 @@ class MainActivity : AppCompatActivity() {
         }
 
         signUpButton?.setOnClickListener{
+            val intent = Intent(this@MainActivity, SecondTaskActivity::class.java)
+            startActivity(intent)
         }
     }
 }

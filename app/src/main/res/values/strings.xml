@@ -4,4 +4,7 @@
     <string name="main_activity_sign_up_btn">Sign Up</string>
     <string name="first_task_activity_message_hint">message...</string>
     <string name="first_task_activity_send_btn">Send</string>
+    <string name="second_task_activity_login_hint">Login...</string>
+    <string name="second_task_activity_password_hint">Password...</string>
+    <string name="second_task_activity_sign_in_btn">Sign In</string>
 </resources>
